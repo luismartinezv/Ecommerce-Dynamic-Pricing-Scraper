@@ -20,7 +20,7 @@ Extracting data from modern websites presents specific challenges that simple HT
 * **Automation & Browser Control:** `Selenium` (Chrome WebDriver)
 * **HTML Parsing:** `BeautifulSoup4` (`html5lib` parser)
 * **Data Cleansing:** `re` (Regex)
-* **Data Structuring:** `Pandas` (Optimized loop via list of dictionaries to prevent DataFrame memory fragmentation).
+* **Data Structuring:** `Pandas`
 
 ## 🚀 How to Run Locally
 To reproduce this pipeline in your local environment, install the required dependencies using the provided requirements file:
