@@ -20,14 +20,14 @@ Extracting data from modern websites presents specific challenges that simple HT
 * **Automation & Browser Control:** `Selenium` (Chrome WebDriver)
 * **HTML Parsing:** `BeautifulSoup4` (`html5lib` parser)
 * **Data Cleansing:** `re` (Regex)
-* **Data Structuring:** `Pandas` (Optimized loop via list of dictionaries to prevent DataFrame memory fragmentation).
+* **Data Structuring:** `Pandas` 
 
 ## 🚀 How to Run Locally
 To reproduce this pipeline in your local environment, install the required dependencies using the provided requirements file:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/luismartinezv/Ecommerce-Dynamic-Pricing-Scraper.git](https://github.com/luismartinezv/Ecommerce-Dynamic-Pricing-Scraper.git)
+git clone https://github.com/luismartinezv/Ecommerce-Dynamic-Pricing-Scraper.git
 
 # Navigate into the directory
 cd Ecommerce-Dynamic-Pricing-Scraper
@@ -43,4 +43,4 @@ pip install -r requirements.txt
 
 ---
 *Developed by **Luis Martínez Vicente** - Economist & Data Scientist*
-*[Connect on LinkedIn](INSERTA_TU_LINK_DE_LINKEDIN_AQUI)*
+*[Connect on LinkedIn -> Still to be updated](https://www.linkedin.com/in/luis-mart%C3%ADnez-77a857331/)*
