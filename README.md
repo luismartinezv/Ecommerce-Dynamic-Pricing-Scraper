@@ -27,7 +27,7 @@ To reproduce this pipeline in your local environment, install the required depen
 
 ```bash
 # Clone the repository
-git clone [https://github.com/TU_USUARIO/Ecommerce-Dynamic-Pricing-Scraper.git](https://github.com/TU_USUARIO/Ecommerce-Dynamic-Pricing-Scraper.git)
+git clone [https://github.com/luismartinezv/Ecommerce-Dynamic-Pricing-Scraper.git](https://github.com/luismartinezv/Ecommerce-Dynamic-Pricing-Scraper.git)
 
 # Install dependencies
 pip install -r requirements.txt
